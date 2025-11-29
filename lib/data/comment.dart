@@ -11,6 +11,6 @@ class Comment {
     required this.avatar,
     required this.userName,
     required this.content,
-    this.content,
+    this.extraData,
   });
 }
