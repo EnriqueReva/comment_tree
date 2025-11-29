@@ -5,7 +5,7 @@ class Comment {
   String? avatar;
   String? userName;
   String? content;
-  Object? extraData
+  Object? extraData;
 
   Comment({
     required this.avatar,
